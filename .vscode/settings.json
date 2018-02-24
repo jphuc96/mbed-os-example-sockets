@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "xlocale": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe"
+}
